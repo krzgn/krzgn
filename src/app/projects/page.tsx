@@ -27,11 +27,11 @@ export default function ProjectsPage() {
       status: "Production"
     },
     {
-      id: "alam",
-      title: "Alam",
+      id: "alan",
+      title: "Alan",
       desc: "Comprehensive asset workbench for illustrators & VTubers to manage workflows.",
       tag: "Asset Workbench",
-      link: "https://alam.krzgn.xyz",
+      link: "https://alan.krzgn.xyz",
       icon: Wrench,
       color: "text-sumer-gold",
       status: "Live"

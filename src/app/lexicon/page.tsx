@@ -18,7 +18,7 @@ export default function LexiconPage() {
   const words = [
     { word: "kur", def: "mountain · foreign land · netherworld", lang: "𒀭 Sumerian", cuneiform: "𒆳", note: "A place beyond the known boundaries." },
     { word: "za.gin", def: "lapis lazuli · brilliant · pure", lang: "𒀭 Sumerian", cuneiform: "𒍝𒆳", note: "Considered the most precious stone in Mesopotamia." },
-    { word: "alam", def: "figure · image · statue", lang: "𒀭 Sumerian", cuneiform: "𒀭", note: "Used to describe visual representation of an entity." },
+    { word: "alan", def: "figure · image · statue", lang: "𒀭 Sumerian", cuneiform: "𒀭", note: "Used to describe visual representation of an entity." },
     { word: "dub", def: "to name · to inscribe · to record", lang: "𒀭 Sumerian", cuneiform: "𒍝", note: "The act of giving identity through writing." },
     { word: "me", def: "essence · divine law · power", lang: "𒀭 Sumerian", cuneiform: "𒈨", note: "The fundamental rules of the universe." }
   ];
@@ -107,17 +107,20 @@ export default function LexiconPage() {
             <BookOpen className="text-xs" /> Resources
           </div>
           <div>
-            <h3 className="text-white text-sm font-semibold mb-1">Electronic Pennsylvania Sumerian Dictionary</h3>
+            <h3 className="text-white text-sm font-semibold mb-1 italic">"ePSD2 — Electronic Pennsylvania Sumerian Dictionary"</h3>
             <p className="text-xs text-slate-500 font-mono leading-relaxed">
-               I source definitions and cuneiform characters from reputable databases.
+              by ORACC / University of Pennsylvania Museum.
+            </p>
+            <p className="text-[0.55rem] text-slate-600 font-mono mt-2 uppercase tracking-widest">
+              Licensed under CC BY-SA 3.0
             </p>
           </div>
           <a 
-            href="http://psd.museum.upenn.edu/"
+            href="https://oracc.museum.upenn.edu/epsd2"
             target="_blank"
             className="font-mono text-[0.65rem] text-lazurite-400 hover:text-lazurite-300 transition-colors uppercase flex items-center gap-1"
           >
-            Visit EPSD <ArrowUpRight className="text-xs" />
+            Visit ePSD2 <ArrowUpRight className="text-xs" />
           </a>
         </div>
 

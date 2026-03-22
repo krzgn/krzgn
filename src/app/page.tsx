@@ -152,7 +152,7 @@ export default function Home() {
               <ArrowUpRight className="text-slate-600 group-hover:text-lazurite-400 transition-colors text-sm" />
             </a>
             <a 
-              href="https://alam.krzgn.xyz" 
+              href="https://alan.krzgn.xyz" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center justify-between bg-slate-900/60 hover:bg-lazurite-950/60 border border-slate-800 hover:border-lazurite-500/30 rounded-xl px-4 py-3 transition-all duration-200 group"
@@ -160,7 +160,7 @@ export default function Home() {
               <div className="flex items-center gap-3">
                 <Wrench className="text-sumer-gold text-lg" />
                 <div>
-                  <div className="text-white text-sm font-medium leading-none">Alam</div>
+                  <div className="text-white text-sm font-medium leading-none">Alan</div>
                   <div className="text-slate-500 text-xs mt-0.5 font-mono">Asset workbench for illustrators & VTubers</div>
                 </div>
               </div>
@@ -289,7 +289,7 @@ export default function Home() {
             </p>
           </div>
           <a 
-            href="https://alam.krzgn.xyz/en/image-sorter" 
+            href="https://alan.krzgn.xyz/en/image-sorter" 
             target="_blank" 
             rel="noopener noreferrer"
             className="font-mono text-[0.65rem] text-lazurite-400 hover:text-lazurite-300 transition-colors flex items-center gap-1"
