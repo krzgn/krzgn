@@ -390,7 +390,7 @@ export default function Home() {
             <span className="font-mono text-[0.55rem] text-slate-600 group-hover:text-black tracking-wider">X</span>
           </a>
           <a 
-            href="mailto:kurouzagin@proton.me" 
+            href="mailto:contact@krzgn.xyz" 
             className="bg-slate-900/60 hover:bg-lazurite-950/80 hover:border-lazurite-500/30 border border-transparent rounded-2xl flex flex-col items-center justify-center gap-1.5 transition-all duration-200 group py-3"
           >
             <EnvelopeSimple className="text-2xl text-slate-400 group-hover:text-white transition-colors" />
