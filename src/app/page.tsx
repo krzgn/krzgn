@@ -33,7 +33,7 @@ export default function Home() {
 
   const lexEntries = [
     { word: "kur", def: '"mountain · foreign land · netherworld"', lang: "𒀭 Sumerian" },
-    { word: "za.gin", def: '"lapis lazuli · brilliant · pure"', lang: "𒀭 Sumerian" },
+    { word: "za-gin", def: '"lapis lazuli · brilliant · pure"', lang: "𒀭 Sumerian" },
   ];
 
   useEffect(() => {

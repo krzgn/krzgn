@@ -17,7 +17,7 @@ import {
 export default function LexiconPage() {
   const words = [
     { word: "kur", def: "mountain · foreign land · netherworld", lang: "𒀭 Sumerian", cuneiform: "𒆳", note: "A place beyond the known boundaries." },
-    { word: "za.gin", def: "lapis lazuli · brilliant · pure", lang: "𒀭 Sumerian", cuneiform: "𒍝𒆳", note: "Considered the most precious stone in Mesopotamia." },
+    { word: "za-gin", def: "lapis lazuli · brilliant · pure", lang: "𒀭 Sumerian", cuneiform: "𒍝𒆳", note: "Considered the most precious stone in Mesopotamia." },
     { word: "alan", def: "figure · image · statue", lang: "𒀭 Sumerian", cuneiform: "𒀭", note: "Used to describe visual representation of an entity." },
     { word: "dub", def: "tablet · clay tablet", lang: "𒀭 Sumerian", cuneiform: "𒍝", note: "The primary medium for recording and inscriptions." },
     { word: "me", def: "essence · divine law · power", lang: "𒀭 Sumerian", cuneiform: "𒈨", note: "The fundamental rules of the universe." }
