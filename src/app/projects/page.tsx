@@ -130,7 +130,7 @@ export default function ProjectsPage() {
             </p>
           </div>
           <a 
-            href="https://x.com/kurouzagin" 
+            href="https://x.com/kurzagin" 
             target="_blank" 
             className="font-mono text-[0.65rem] text-lazurite-400 hover:text-lazurite-300 transition-colors uppercase flex items-center gap-1"
           >

@@ -64,7 +64,7 @@ export default function SidebarNav() {
       {/* X link bottom */}
       <div className="hidden md:block">
         <a 
-          href="https://x.com/kurouzagin" 
+          href="https://x.com/kurzagin" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-slate-600 hover:text-slate-300 transition-colors p-1 block"

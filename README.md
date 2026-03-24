@@ -1,4 +1,4 @@
-# Hey, I'm Kurou Zagin // 𒍝𒆳
+# Hey, I'm Kur Zagin // 𒍝𒆳
 
 Solo developer.
 
@@ -17,7 +17,7 @@ Focused on fast iteration, clean code, and solving real problems.
 e/acc mindset — accelerate what matters.
 
 ## Connect
-- **X** → [@kurouzagin](https://x.com/kurouzagin)
+- **X** → [@kurzagin](https://x.com/kurzagin)
 
 Open to feedback, ideas, or interesting collabs.  
 Drop a line if something clicks.

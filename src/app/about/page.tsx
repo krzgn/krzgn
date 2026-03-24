@@ -100,7 +100,7 @@ export default function AboutPage() {
         >
            <div className="cuneiform opacity-5 group-hover:scale-110 transition-transform duration-700 select-none pointer-events-none">𒆳</div>
            <div className="relative z-10 text-center">
-             <div className="text-sumer-gold text-4xl font-bold mb-4 tracking-tighter uppercase">kurouzagin</div>
+             <div className="text-sumer-gold text-4xl font-bold mb-4 tracking-tighter uppercase">kurzagin</div>
              <p className="text-slate-500 font-mono text-xs uppercase tracking-[0.3em]">Building small, precise tools.</p>
            </div>
            <div className="absolute inset-0 bg-gradient-to-t from-lazurite-950/20 to-transparent"></div>

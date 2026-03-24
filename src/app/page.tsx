@@ -113,10 +113,10 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-white flex items-center gap-2 leading-tight">
-                  Kurou Zagin
+                  Kur Zagin
                   <SealCheck weight="fill" className="text-lazurite-400 text-base" />
                 </h1>
-                <p className="font-mono text-xs text-lazurite-400 mt-0.5">@kurouzagin</p>
+                <p className="font-mono text-xs text-lazurite-400 mt-0.5">@kurzagin</p>
               </div>
             </div>
 
@@ -190,7 +190,7 @@ export default function Home() {
               <span className="font-mono text-xs text-slate-500">Available for collabs</span>
             </div>
             <a 
-              href="https://x.com/kurouzagin" 
+              href="https://x.com/kurzagin" 
               target="_blank" 
               rel="noopener noreferrer"
               className="font-mono text-xs text-lazurite-400 hover:text-lazurite-300 transition-colors flex items-center gap-1"
@@ -381,7 +381,7 @@ export default function Home() {
             <span className="font-mono text-[0.55rem] text-slate-600 group-hover:text-slate-400 tracking-wider">GITHUB</span>
           </a>
           <a 
-            href="https://x.com/kurouzagin" 
+            href="https://x.com/kurzagin" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-slate-900/60 hover:bg-slate-100 border border-transparent rounded-2xl flex flex-col items-center justify-center gap-1.5 transition-all duration-200 group py-3"

@@ -16,7 +16,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: "Kurou Zagin // krzgn.xyz",
+  title: "Kur Zagin // krzgn.xyz",
   description: "Solo developer. Building small, precise tools for creators.",
   icons: {
     icon: "/favicon.svg",
