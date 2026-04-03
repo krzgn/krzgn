@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Kur Zagin // 𒀭𒆳𒍝𒆳
 
-<!--
-**krzgn/krzgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo developer.
 
-Here are some ideas to get you started:
+I build small, practical tools — mostly around visuals, workflows, and things that reduce friction for creators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on fast iteration, clean code, and solving real problems.
+
+## Tech I reach for
+- Rust  
+- Python  
+- TypeScript / JavaScript  
+- Media processing pipelines
+- Workspace Manager
+- Web experiments  
+- AI-assisted workflows
+
+e/acc mindset — accelerate what matters.
+
+## Connect
+- **X** → [@kurzagin](https://x.com/kurzagin)
+
+Open to feedback, ideas, or interesting collabs.  
+Drop a line if something clicks.
