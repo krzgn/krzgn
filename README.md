@@ -45,6 +45,6 @@ Accelerate with intention.
 
 - **Website** → [kurzagin.com](https://krzgn.com)
 - **X** → [@kurzagin](https://x.com/kurzagin)
-- **Email** → [hello@kurzagin.com](mailto:venus@krzgn.com)
+- **Email** → [venus@kurzagin.com](mailto:venus@krzgn.com)
 
 Ideas, feedback, technical conversations, and unusual collaborations are welcome.
