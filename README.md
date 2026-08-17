@@ -1,6 +1,7 @@
 # Kur Zagin 𒀭𒆳𒍝𒆳
 
 **System architect, solo developer, and builder of strange but useful things.**
+Founder of **VXNUS Studio**.
 
 I design products where software, knowledge systems, AI, and immersive interfaces overlap.
 
@@ -14,7 +15,7 @@ Then I build the tool I wish already existed.
 
 * **Siduri** — an AI companion and knowledge layer designed to understand applications without becoming tightly coupled to them
 * **Danna** — a personal operations platform for companions, schedules, finances, goals, memories, and everyday concerns
-* **e-Teyvat** — a structured and immersive Genshin Impact knowledge platform
+* **e-Teyvat** — a structured and immersive Genshin Impact knowledge platform 🎐
 * Experimental tools for creators, media workflows, archives, and versioned knowledge
 
 ## What I care about
@@ -43,8 +44,10 @@ Accelerate with intention.
 
 ## Find me
 
-- **Website** → [kurzagin.com](https://krzgn.com)
+- **Website** → [krzgn.xyz](https://krzgn.xyz)
+- **VXNUS Studio** → [vxnus.xyz](https://vxnus.xyz)
+- **GitHub** → [@vxnuslabs](https://github.com/vxnuslabs)
 - **X** → [@kurzagin](https://x.com/kurzagin)
-- **Email** → [venus@kurzagin.com](mailto:venus@krzgn.com)
+- **Email** → [venus@krzgn.xyz](mailto:venus@krzgn.xyz)
 
-Ideas, feedback, technical conversations, and unusual collaborations are welcome.
+Ideas, feedback, technical conversations, and unusual collaborations are welcome ✨
